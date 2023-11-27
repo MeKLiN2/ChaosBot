@@ -1,0 +1,66 @@
+{
+    "Response Headers (0 kB)": {
+        "headers": [
+            {
+                "name": "Date", 
+                "value": "Mon, 27 Nov 2023 18:38:11 GMT"
+            }, 
+            {
+                "name": "Content-Type", 
+                "value": "text/html; charset=UTF-8"
+            }, 
+            {
+                "name": "Transfer-Encoding", 
+                "value": "chunked"
+            }, 
+            {
+                "name": "Connection", 
+                "value": "keep-alive"
+            }, 
+            {
+                "name": "X-Powered-By", 
+                "value": "PHP/7.3.30"
+            }, 
+            {
+                "name": "Cache-Control", 
+                "value": "no-cache"
+            }, 
+            {
+                "name": "Location", 
+                "value": "https://tinychat.com"
+            }, 
+            {
+                "name": "Set-Cookie", 
+                "value": "XSRF-TOKEN=eyJpdiI6IkhSamVoaGF6UXFxNDhxak1zN3pMVGc9PSIsInZhbHVlIjoiZnlLS3FkZDJYSTJcL1BPUGRyY1dkeGxLSGxFT1Fsa0JHNkF3SWJZbm5Jdk9vWjFsTjBFcFhHaldna2c0TXh2RTRYSjdnZ1RYZTJBQW1MWXN0cGxhMEZ3PT0iLCJtYWMiOiI3NWVmYTUxMzFjNGY0OGM2Mjg4MzNlYzYxMTZmYzAxYzJlMDJiNDRhYWRlODc3MTIxMTI0ZGNjZmQ3ZTEyMzFlIn0%3D; expires=Mon, 27-Nov-2023 20:38:11 GMT; Max-Age=7200; path=/, tcsession=c95895bbdfb203e30a8ea5e8e490f08d45dcef2a; path=/; HttpOnly, remember_82e5d2c56bdd0811318f0cf078b78bfc=eyJpdiI6IlJ0WGtwU1ZZbUN1ano1TGF1YXVadHc9PSIsInZhbHVlIjoiY2h5SENkMURHSlk0bHdUSFFFNUg5SjhBUGdrQ0xVWlp5ZFNDWHR5UWZPK2VGUGtSKzNlZm1saVN4b0JRK2VSK01PM21JTlBoc1kwN20ySEtSUXowbStxXC93cVo1emJsSTdYMVZ1dGlYT3lRPSIsIm1hYyI6IjcxMTYyZmY0MmNhNmRlZDdhNzI4YzJkNDAwNzEwZDIzMmI2ZWE2ZmE4MmZmYTdkY2JkZjU2ZDk4ZTE1ZTBmMzAifQ%3D%3D; expires=Sat, 25-Nov-2028 18:38:11 GMT; Max-Age=157680000; path=/; HttpOnly, hash=79ec4b37b5c1f9f2bb49eec2a5e04b61; expires=Tue, 26-Nov-2024 18:38:11 GMT; Max-Age=31536000; path=/; domain=.tinychat.com; HttpOnly, user=raise; expires=Tue, 26-Nov-2024 18:38:11 GMT; Max-Age=31536000; path=/; domain=.tinychat.com; HttpOnly, pass=c65e2e4fb0be913518777dafc35bbb4e; expires=Tue, 26-Nov-2024 18:38:11 GMT; Max-Age=31536000; path=/; domain=.tinychat.com; HttpOnly"
+            }, 
+            {
+                "name": "Access-Control-Allow-Origin", 
+                "value": "http://tinychat.com"
+            }, 
+            {
+                "name": "Access-Control-Allow-Headers", 
+                "value": "x-requested-with"
+            }, 
+            {
+                "name": "CF-Cache-Status", 
+                "value": "DYNAMIC"
+            }, 
+            {
+                "name": "Report-To", 
+                "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=GqWu%2BkmGrf4htmU4O6TQ59z4udyrYXSjKy27NQW%2BGlrYnJPstItVr9aO8r0lY0I%2F%2FOSR8fLIQxcfpe51JUQT%2FFlrBVH%2FoRoaOgwZPwYLGf6k0Kxg4LrkLHImv4yd%2BQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            }, 
+            {
+                "name": "NEL", 
+                "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            }, 
+            {
+                "name": "Server", 
+                "value": "cloudflare"
+            }, 
+            {
+                "name": "CF-RAY", 
+                "value": "82cc7c969f6b8233-IAD"
+            }
+        ]
+    }
+}
